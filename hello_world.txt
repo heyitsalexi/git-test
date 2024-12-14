@@ -1,3 +1,1 @@
 Hello World!
-
-Adding text to check `git commit` on VS Code
